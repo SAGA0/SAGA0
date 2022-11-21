@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SAGA0](https://github.com/SAGA0)
 
-- 💬 Ask me about **work**
+- 💬 Ask me about **work** **@Tipakbu in Telegram**
 
 - 📫 How to reach me **murdagaliev95@gmail.com**
 
@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saga0&show_icons=true&theme=dark&locale=en&layout=compact" alt="saga0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saga0&show_icons=true&theme=dark&locale=en" alt="saga0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saga0&" alt="saga0" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=saga0&show_icons=true&theme=dark&locale=en" alt="saga0" /></p>
+<br><br>
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=saga0&" alt="saga0" /></p>
