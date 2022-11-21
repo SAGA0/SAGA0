@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SAGA0](https://github.com/SAGA0)
 
-- 💬 Ask me about **work** **@Tipakbu in Telegram**
+- 💬 Ask me about **work** **https://t.me/Tipakbu in Telegram**
 
 - 📫 How to reach me **murdagaliev95@gmail.com**
 
