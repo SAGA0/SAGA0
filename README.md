@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ramzan</h1>
 <h3 align="center">A Frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
+
 
 - 🔭 I’m currently sharpening my knowledges **React/Redux/JS**
 
 - 🌱 I’m currently learning **TS/Redux_libraries**
+
+<img align="right" align="center" alt="Coding" width="400" padding-top="100"  src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/SAGA0](https://github.com/SAGA0)
 
