@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **murdagaliev95@gmail.com**
 
-- ⚡ Fun fact **My friends ыфн that i look like Ilon Mask**
+- ⚡ Fun fact **My friends say that I look like Ilon Mask**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
